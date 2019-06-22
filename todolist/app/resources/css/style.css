@@ -240,3 +240,7 @@ ul.todo#todo:after{
   font-size: 2rem;
   color: #aaa;
 }
+
+a.logout{
+  color: #ff0000;
+}
