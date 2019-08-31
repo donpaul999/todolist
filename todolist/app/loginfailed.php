@@ -22,6 +22,6 @@
      <h1 class= "heading">Login Failed! Username or/and the password is/are wrong </h1>
      <a href="login.php" class= "btn"><input type="button" value="Go Back"></a>
      <h2 class= "heading">If you have problems logining in contact me here</h2>
-     <a href="contact.html" class= "btn"><input type="button" value="Contact"></a>
+     <a href="https://contar.io/p/stefanut999" class= "btn"><input type="button" value="Contact"></a>
    </body>
  </html>
